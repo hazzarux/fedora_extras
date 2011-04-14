@@ -7,7 +7,7 @@
 # this little script will install some additional software on your Fedora installation for more pleasure and ease of use.
 # this script WILL install non-proprietary (non-open-source software).
 
-# based on http://www.fedorafaq.com/ (13/4/2011)
+# based on http://www.fedorafaq.org/ (13/4/2011)
 
 # PACKAGE SHOULD BE RUN AS ROOT
 
@@ -120,7 +120,7 @@ linux mediacheck ide=nodma
 ########################################################
 # end of script
 ########################################################
-# all credits go to the maintainer of the FedoraFAQ (http://www.fedorafaq.com/), Max Kanat-Alexander. That's max [at] fedorafaq *dot* org or "mkanat" in the #fedora IRC channel.
+# all credits go to the maintainer of the FedoraFAQ (http://www.fedorafaq.org/), Max Kanat-Alexander. That's max [at] fedorafaq *dot* org or "mkanat" in the #fedora IRC channel.
 # yigit ozkan (yigitozkan2804@gmail.com) has only written this script in his free time.
 # this script is licensed under the Apache license (see above)
 # (you may) do the fuck you want with this.
