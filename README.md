@@ -1,5 +1,8 @@
 Fedora_Extras
 =============
+Name
+-----
+The name was inspired by Ubuntu (ubuntu-restricted-extras). ( https://help.ubuntu.com/community/RestrictedFormats/ )
 Summary
 ---------
 * add RPMFusion repository
