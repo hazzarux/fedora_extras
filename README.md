@@ -22,7 +22,7 @@ Summary
 
 License
 --------
-(c) Copyright 2011 Yigit Ozkan.
+* (c) Copyright 2011 Yigit Ozkan.
 Licensed under the Apache License, Version 2.0
 http://www.apache.org/licenses/LICENSE-2.0
 
@@ -31,7 +31,7 @@ http://www.apache.org/licenses/LICENSE-2.0
 * this script is licensed under the Apache license (see above)
 * (you may) do the fuck you want with this.
 * i don't care if you steal it, brotha!
-* i love pull requests on GitHub. (https://github.com/hazzarux/fedora_extras)
+* i love pull requests <a href="https://github.com/hazzarux/fedora_extras">on GitHub</a>.
 
 
 
