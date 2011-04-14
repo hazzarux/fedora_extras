@@ -125,7 +125,7 @@ linux mediacheck ide=nodma
 # this script is licensed under the Apache license (see above)
 # (you may) do the fuck you want with this.
 # i don't care if you steal it, brotha!
-# i love pull requests on GitHub.
+# i love pull requests on GitHub. (https://github.com/hazzarux/fedora_extras)
 ########################################################
 ########################################################
 ########################################################
