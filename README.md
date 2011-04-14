@@ -27,7 +27,7 @@ Licensed under the Apache License, Version 2.0
 http://www.apache.org/licenses/LICENSE-2.0
 
 * all credits go to the maintainer of the FedoraFAQ (http://www.fedorafaq.org/), Max Kanat-Alexander. That's max [at] fedorafaq *dot* org or "mkanat" in the #fedora IRC channel.
-* yigit ozkan (yigitozkan2804@gmail.com) has only written this script in his free time.
+* yigit ozkan (<a href="mailto:yigitozkan2804@gmail.com">yigitozkan2804@gmail.com</a>) has only written this script in his free time.
 * this script is licensed under the Apache license (see above)
 * (you may) do the fuck you want with this.
 * i don't care if you steal it, brotha!
