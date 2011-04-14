@@ -20,6 +20,21 @@ Summary
 * NOKEY warning solution
 * "CD's aren't bad"
 
+License
+--------
+(c) Copyright 2011 Yigit Ozkan.
+Licensed under the Apache License, Version 2.0
+http://www.apache.org/licenses/LICENSE-2.0
+
+* all credits go to the maintainer of the FedoraFAQ (http://www.fedorafaq.org/), Max Kanat-Alexander. That's max [at] fedorafaq *dot* org or "mkanat" in the #fedora IRC channel.
+* yigit ozkan (yigitozkan2804@gmail.com) has only written this script in his free time.
+* this script is licensed under the Apache license (see above)
+* (you may) do the fuck you want with this.
+* i don't care if you steal it, brotha!
+* i love pull requests on GitHub. (https://github.com/hazzarux/fedora_extras)
+
+
+
 TODO
 (yigitozkan2804@gmail.com)
 
